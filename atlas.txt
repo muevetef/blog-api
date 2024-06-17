@@ -1,0 +1,4 @@
+easyrobotics2
+p9w3uRjVBlKmY4ch
+
+"mongodb+srv://cluster0.ifqf99h.mongodb.net/" --apiVersion 1 --username easyrobotics2
